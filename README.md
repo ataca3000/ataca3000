@@ -106,30 +106,33 @@ Proyecto creativo de exploración de IA y experiencias digitales.
 
 ---
 ## 🛠️ Stack Tecnológico
-
-### Frontend
-
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white
-
-### Backend
-
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
-
-### DevOps
-
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-
-### Bases de Datos
-
-https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+logoColor=white
 
 ---
+### Frontend & UI
+![Next.js](https://shields.io)
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![TailwindCSS](https://shields.io)
+
+### Backend & Bases de Datos
+![Node.js](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Prisma](https://shields.io)
+![Supabase](https://shields.io)
+![Firebase](https://shields.io)
+
+### DevOps & Infraestructura
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+![GitHub Actions](https://shields.io)
+
+## 📄 Licencia de Código y Diseño
+
+* **Diseño UI/UX y Recursos Visuales:** Protegidos bajo **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**. Se permite compartir y estudiar las interfaces dando crédito al autor, prohibido su uso comercial directo sin autorización.
+
+> *"La tecnología tiene más valor cuando resuelve problemas reales."* — **⭐ Si alguno de estos proyectos o diseños te inspira o te resulta útil, considera dejar una estrella.**
+
 
 ## 💡 Filosofía
 
